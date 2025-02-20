@@ -43,7 +43,7 @@
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Front-end](https://33binil.github.io/front-end-website-1/)**    | Front-end designed using figma|
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
