@@ -38,11 +38,3 @@
 
 ---
 
-<h2 id="Projects" align=''> Projects </h2>
-
-
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **[Front-end](https://33binil.github.io/front-end-website-1/)**    | Front-end designed using figma|
-| **[Front-end](https://33binil.github.io/internship-web-design/)**    | Front-end designed for internship|
----
