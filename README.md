@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/binil-b-a1a118303) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/binil_.b/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/biniilll) [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RzrEySYe)
 
 
-  "I'm a self-taught developer currently i'm studying BCA and Completed UI&UX DEsign Cource. Passionate about crafting immersive web experiences and scalable applications, I specialize in Vite React, Tailwind and UI Designing (`FIGMA`).
+  " I'm a self-taught developer currently i'm studying BCA and Completed UI&UX DEsign Cource. Passionate about crafting immersive web experiences and scalable applications, I specialize in Vite React, Tailwind and UI Designing (`FIGMA`). "
 
 ---
 <br>
