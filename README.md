@@ -1,13 +1,29 @@
 ## Hey 👋, I'm Binil :)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/33binilb)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/binill.b/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RzrEySYe)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917902931503?text=Heyy%20Binil...)
+<br>
 
+<p align="center">
+  <a href="www.linkedin.com/in/33binilb">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/binill.b/">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://discord.gg/RzrEySYe">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://wa.me/917902931503?text=Heyy%20Binil...">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="[https://pixeljunkiestudio.in](https://portfolio-pi-eight-20.vercel.app/)">
+    <img src="https://img.shields.io/badge/-Portfolio-151515?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+<br>
 
- "I'm a self-taught software developer currently pursuing a BCA degree and certified in UI/UX Design. Passionate about crafting immersive web experiences and scalable applications, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), along with Vite, Tailwind CSS, and UI design using Figma."
-
+<p align="center"">
+  I'm a self-taught software developer pursuing a BCA degree and certified in UI/UX Design. I build scalable web applications using the MERN stack (MongoDB, Express.js, React, Node.js) with Vite, Tailwind CSS, and clean UI design using Figma.
+</p>
 
 ---
 <br>
