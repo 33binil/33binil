@@ -15,7 +15,7 @@
   <a href="https://wa.me/917902931503?text=Heyy%20Binil...">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="[https://pixeljunkiestudio.in](https://portfolio-pi-eight-20.vercel.app/)">
+  <a href="https://portfolio-pi-eight-20.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-151515?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
